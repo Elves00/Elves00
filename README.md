@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brecon Rose</h1>
+<h1 align="center">Kia ora 👋, I'm Brecon Rose</h1>
 <h3 align="center">An aspiring full stack developer from New Zealand</h3>
-
-- 🌱 I’m currently Studying **Software Engineering at AUT**
 
 - 📫 How to reach me **breconrose@gmail.com**
 
